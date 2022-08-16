@@ -1,0 +1,8 @@
+head, main{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+buttom{
+    width: 80px;
+}
